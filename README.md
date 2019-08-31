@@ -1,3 +1,4 @@
+
 # houdini-rop-cop-gif
 
 [Houdini](http://www.sidefx.com/index.php) HDK ROP node which creates a gif file from a given COP2 node.
